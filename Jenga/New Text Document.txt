@@ -1,0 +1,3 @@
+About this project:
+3 months and half into the internship, this is the second game that I've created. It contains options for custom tower height, a save and load system for a default file location and a save and load system where you choose your directory via file explorer.
+Each player has his own account (with username and password) so overriding and loading files from the other accounts via the file explorer is denied.

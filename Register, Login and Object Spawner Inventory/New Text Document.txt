@@ -1,0 +1,3 @@
+About this project:
+3 months into the internship, this is a practice task given to me to expand my skills. This project includes creation of an account (registration) and login. Accounts are saved as JSON files. The login includes a Remember me which reads the file of the account on the next program startup and automatically fills the fields.
+The second part of the project includes a world with camera controls and a list which acts like an inventory. This list holds buttons which spawn objects in the world and those objects when spawned can be rotated and placed with the cursor. The list can scale, meaning that it will create a button for each new object made for the list.
